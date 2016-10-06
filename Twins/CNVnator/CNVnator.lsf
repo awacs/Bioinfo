@@ -1,0 +1,20 @@
+#!/bin/bash
+#BSUB -J CNVnator_sub
+#BSUB -o lsfoutput/test-%J.out
+#BSUB -e lsfoutput/test-%J.err
+
+# This is a script to sumbit a CNVnator job
+# Choose a queue that you have access (eg the normal queue) and submit
+# job as follows:
+# ---
+# bsub -q normal < CNVnator.lsf
+# ---
+# Then look in the ~/lsf/output folder for the script log
+# that matches the job ID number
+
+# Please make a copy of this script for your own modifications
+    
+bash ~/Software/CNVnator/CNVnator.sh -d output \
+              -o sample.sv\
+              -b ../Rawdata/PM13-02652/realign/PM13-02652_subsample.bam
+          
