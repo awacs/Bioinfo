@@ -1,0 +1,18 @@
+#!/bin/bash
+#BSUB -J Wham_sub
+#BSUB -o lsfoutput/test-%J.out
+#BSUB -e lsfoutput/test-%J.err
+
+# This is a script to sumbit a lumpy job
+# Choose a queue that you have access (eg the normal queue) and submit
+# job as follows:
+# ---
+# bsub -q normal < Whamg.lsf
+# ---
+# Then look in the ~/lsf/output folder for the script log
+# that matches the job ID number
+
+# Please make a copy of this script for your own modifications
+
+bash whamg -f ../Rawdata/PM13-02652/realign/PM13-02652_subsample.bam\
+    -a ~/Rawdata/manta_practice.fa\ 2> ./subsample/wham.err > wham.vcf
