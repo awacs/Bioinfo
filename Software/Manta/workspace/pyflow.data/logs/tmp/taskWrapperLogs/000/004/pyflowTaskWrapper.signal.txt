@@ -1,0 +1,4 @@
+[2016-09-30T17:37:25.535436] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:getAlignmentStats_summarizeStats] [wrapperSignal] wrapperStart
+[2016-09-30T17:37:25.545840] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:getAlignmentStats_summarizeStats] [wrapperSignal] taskStart
+[2016-09-30T17:37:25.625359] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:getAlignmentStats_summarizeStats] [wrapperSignal] taskExitCode 0
+[2016-09-30T17:37:25.626493] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:getAlignmentStats_summarizeStats] [wrapperSignal] taskElapsedSec 0

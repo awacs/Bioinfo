@@ -1,0 +1,4 @@
+[2016-09-30T17:37:48.732726] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:checkLocusGraph] [wrapperSignal] wrapperStart
+[2016-09-30T17:37:48.742336] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:checkLocusGraph] [wrapperSignal] taskStart
+[2016-09-30T17:37:48.958203] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:checkLocusGraph] [wrapperSignal] taskExitCode 0
+[2016-09-30T17:37:48.960600] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:checkLocusGraph] [wrapperSignal] taskElapsedSec 0

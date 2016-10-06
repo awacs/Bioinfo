@@ -1,0 +1,4 @@
+[2016-09-30T17:37:15.829737] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:getAlignmentStats_makeTmpDir] [wrapperSignal] wrapperStart
+[2016-09-30T17:37:15.845754] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:getAlignmentStats_makeTmpDir] [wrapperSignal] taskStart
+[2016-09-30T17:37:15.851089] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:getAlignmentStats_makeTmpDir] [wrapperSignal] taskExitCode 0
+[2016-09-30T17:37:15.853740] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:getAlignmentStats_makeTmpDir] [wrapperSignal] taskElapsedSec 0

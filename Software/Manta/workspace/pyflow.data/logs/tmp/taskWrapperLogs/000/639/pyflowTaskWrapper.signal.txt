@@ -1,0 +1,4 @@
+[2016-09-30T17:38:02.641329] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:fixVcfHeader_sortDiploidSV] [wrapperSignal] wrapperStart
+[2016-09-30T17:38:02.650384] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:fixVcfHeader_sortDiploidSV] [wrapperSignal] taskStart
+[2016-09-30T17:38:02.681640] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:fixVcfHeader_sortDiploidSV] [wrapperSignal] taskExitCode 0
+[2016-09-30T17:38:02.683445] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:fixVcfHeader_sortDiploidSV] [wrapperSignal] taskElapsedSec 0

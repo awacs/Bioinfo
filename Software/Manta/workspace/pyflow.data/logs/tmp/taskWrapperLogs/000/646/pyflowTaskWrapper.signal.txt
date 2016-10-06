@@ -1,0 +1,4 @@
+[2016-09-30T17:38:02.735391] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:sortEdgeRuntimeLogs] [wrapperSignal] wrapperStart
+[2016-09-30T17:38:02.748288] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:sortEdgeRuntimeLogs] [wrapperSignal] taskStart
+[2016-09-30T17:38:02.785511] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:sortEdgeRuntimeLogs] [wrapperSignal] taskExitCode 0
+[2016-09-30T17:38:02.787674] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:sortEdgeRuntimeLogs] [wrapperSignal] taskElapsedSec 0

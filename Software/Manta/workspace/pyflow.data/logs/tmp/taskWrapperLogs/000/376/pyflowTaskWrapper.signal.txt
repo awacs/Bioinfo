@@ -1,0 +1,4 @@
+[2016-09-30T17:37:48.790293] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:rmTmpDir] [wrapperSignal] wrapperStart
+[2016-09-30T17:37:48.800054] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:rmTmpDir] [wrapperSignal] taskStart
+[2016-09-30T17:37:49.003157] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:rmTmpDir] [wrapperSignal] taskExitCode 0
+[2016-09-30T17:37:49.005080] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:rmTmpDir] [wrapperSignal] taskElapsedSec 0

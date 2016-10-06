@@ -1,0 +1,4 @@
+[2016-09-30T17:37:16.123814] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:getChromDepth_sample000_makeTmpDir] [wrapperSignal] wrapperStart
+[2016-09-30T17:37:16.136525] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:getChromDepth_sample000_makeTmpDir] [wrapperSignal] taskStart
+[2016-09-30T17:37:16.142516] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:getChromDepth_sample000_makeTmpDir] [wrapperSignal] taskExitCode 0
+[2016-09-30T17:37:16.143775] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:getChromDepth_sample000_makeTmpDir] [wrapperSignal] taskElapsedSec 0

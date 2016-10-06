@@ -1,0 +1,13 @@
+group:	/PHShome/hw878/Rawdata/practice_bams/14415.fa.bam
+fragment length observations:	493300
+fragment length quantiles:
+0.01	220
+0.05	282
+0.1	312
+0.25	358
+0.5	411
+0.75	473
+0.9	536
+0.95	576
+0.99	652
+

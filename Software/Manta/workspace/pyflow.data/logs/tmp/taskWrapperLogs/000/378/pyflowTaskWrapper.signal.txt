@@ -1,0 +1,4 @@
+[2016-09-30T17:37:49.060987] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:makeHyGenDir] [wrapperSignal] wrapperStart
+[2016-09-30T17:37:49.069943] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:makeHyGenDir] [wrapperSignal] taskStart
+[2016-09-30T17:37:49.075526] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:makeHyGenDir] [wrapperSignal] taskExitCode 0
+[2016-09-30T17:37:49.077634] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:makeHyGenDir] [wrapperSignal] taskElapsedSec 0

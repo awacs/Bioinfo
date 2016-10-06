@@ -1,0 +1,82 @@
+GraphBuildTime	0.0271h wall, 0.0258h user + 0.0004h system = 0.0261h CPU (96.49%)
+GraphMergeTime	0.0000h wall, 0.0000h user + 0.0000h system = 0.0000h CPU (67.98%)
+disjointSubgraphs	260
+nodes	337
+directedEdges	379
+selfEdges	225
+totalGraphEvidence	9530
+totalCleaned	25998
+highestSearchCount	66
+isMaxSearchCount	0
+highestSearchDensity	0.075
+isMaxSearchDensity	0
+
+[Sample0]
+Source	/PHShome/hw878/Rawdata/practice_bams/14415.fa.bam
+MinMapqFiltered	10055	0.0088
+NotFiltered	1129809	0.9912
+NotFilteredAndIgnored	1116720	0.9797
+NotFilteredAndAnomalousPair	7512	0.0066
+NotFilteredAndAnomalousPairRemotes	5944	0.0052
+NotFilteredAndSplitRead	3414	0.0030
+NotFilteredAndLargeIndel	1847	0.0016
+NotFilteredAndSemiAligned	1751	0.0015
+EvidenceType_pair	0	0.0000
+EvidenceType_local_pair	6091	0.5116
+EvidenceType_cigar	1851	0.1555
+EvidenceType_softclip	0	0.0000
+EvidenceType_semialign	1796	0.1508
+EvidenceType_shadow	0	0.0000
+EvidenceType_split_align	2168	0.1821
+EvidenceType_unknown	0	0.0000
+ClosePairs	89
+
+NodeRegionSizequantile:
+0.25	48
+0.5	64
+0.75	254
+0.9	384
+0.95	461
+0.99	581
+NodeEdgeCount:
+0	0
+1	321
+2	10
+3	2
+4	1
+5	0
+6	1
+7	0
+8	1
+9+	1
+NodeObservationCount:
+0	57
+1	0
+2	0
+3	0
+4	0
+5	0
+6	0
+7	0
+8	0
+9	67
+10	0
+11	0
+12	20
+13	0
+14	0
+15	23
+16	0
+17	0
+18	10
+19	0
+20	0
+21	8
+22	0
+23	0
+24	10
+25	1
+26	0
+27	18
+28	0
+29+	123

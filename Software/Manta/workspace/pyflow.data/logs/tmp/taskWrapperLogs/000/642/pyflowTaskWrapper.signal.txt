@@ -1,0 +1,4 @@
+[2016-09-30T17:38:03.085378] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:tabix_sortDiploidSV] [wrapperSignal] wrapperStart
+[2016-09-30T17:38:03.099250] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:tabix_sortDiploidSV] [wrapperSignal] taskStart
+[2016-09-30T17:38:03.109390] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:tabix_sortDiploidSV] [wrapperSignal] taskExitCode 0
+[2016-09-30T17:38:03.111967] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:tabix_sortDiploidSV] [wrapperSignal] taskElapsedSec 0

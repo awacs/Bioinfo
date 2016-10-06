@@ -1,0 +1,4 @@
+[2016-09-30T17:37:25.503914] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:makeGraphTmpDir] [wrapperSignal] wrapperStart
+[2016-09-30T17:37:25.514424] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:makeGraphTmpDir] [wrapperSignal] taskStart
+[2016-09-30T17:37:25.522282] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:makeGraphTmpDir] [wrapperSignal] taskExitCode 0
+[2016-09-30T17:37:25.524904] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:makeGraphTmpDir] [wrapperSignal] taskElapsedSec 0

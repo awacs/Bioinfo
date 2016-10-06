@@ -1,0 +1,4 @@
+[2016-09-30T17:37:48.520872] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:mergeLocusGraph] [wrapperSignal] wrapperStart
+[2016-09-30T17:37:48.532952] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:mergeLocusGraph] [wrapperSignal] taskStart
+[2016-09-30T17:37:48.642895] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:mergeLocusGraph] [wrapperSignal] taskExitCode 0
+[2016-09-30T17:37:48.646250] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:mergeLocusGraph] [wrapperSignal] taskElapsedSec 0

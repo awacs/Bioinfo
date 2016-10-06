@@ -1,0 +1,4 @@
+[2016-09-30T17:37:58.037513] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:generateCandidateSV_0203] [wrapperSignal] wrapperStart
+[2016-09-30T17:37:58.046237] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:generateCandidateSV_0203] [wrapperSignal] taskStart
+[2016-09-30T17:37:58.111219] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:generateCandidateSV_0203] [wrapperSignal] taskExitCode 0
+[2016-09-30T17:37:58.112760] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:generateCandidateSV_0203] [wrapperSignal] taskElapsedSec 0

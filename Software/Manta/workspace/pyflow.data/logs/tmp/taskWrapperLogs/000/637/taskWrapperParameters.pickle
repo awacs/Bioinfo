@@ -1,0 +1,26 @@
+(dp0
+S'isShellCmd'
+p1
+I01
+sS'cmd'
+p2
+S'"/usr/bin/python" -E "/apps/lab/miket/manta/0.29.5/libexec/sortVcf.py" -u -f "/PHShome/hw878/Software/Manta/workspace/svHyGen/list.sortCandidateSV.txt" | "/apps/lab/miket/manta/0.29.5/libexec/bgzip" -c > "/PHShome/hw878/Software/Manta/results/variants/candidateSV.vcf.gz"'
+p3
+sS'errFile'
+p4
+S'/PHShome/hw878/Software/Manta/workspace/pyflow.data/logs/pyflow_tasks_stderr_log.txt'
+p5
+sS'outFile'
+p6
+S'/PHShome/hw878/Software/Manta/workspace/pyflow.data/logs/pyflow_tasks_stdout_log.txt'
+p7
+sS'env'
+p8
+NsS'nCores'
+p9
+I1
+sS'cwd'
+p10
+S''
+p11
+s.

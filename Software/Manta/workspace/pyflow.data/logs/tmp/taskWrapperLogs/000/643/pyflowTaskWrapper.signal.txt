@@ -1,0 +1,4 @@
+[2016-09-30T17:38:03.029132] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:extractSmallIndels] [wrapperSignal] wrapperStart
+[2016-09-30T17:38:03.038280] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:extractSmallIndels] [wrapperSignal] taskStart
+[2016-09-30T17:38:03.063721] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:extractSmallIndels] [wrapperSignal] taskExitCode 0
+[2016-09-30T17:38:03.065458] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:extractSmallIndels] [wrapperSignal] taskElapsedSec 0

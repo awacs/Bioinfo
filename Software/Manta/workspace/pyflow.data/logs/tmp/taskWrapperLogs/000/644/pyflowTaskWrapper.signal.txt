@@ -1,0 +1,4 @@
+[2016-09-30T17:38:03.168583] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:extractSmallIndels_tabix] [wrapperSignal] wrapperStart
+[2016-09-30T17:38:03.180173] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:extractSmallIndels_tabix] [wrapperSignal] taskStart
+[2016-09-30T17:38:03.189403] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:extractSmallIndels_tabix] [wrapperSignal] taskExitCode 0
+[2016-09-30T17:38:03.191820] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:extractSmallIndels_tabix] [wrapperSignal] taskElapsedSec 0

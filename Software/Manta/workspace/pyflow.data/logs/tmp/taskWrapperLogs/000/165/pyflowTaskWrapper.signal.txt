@@ -1,0 +1,4 @@
+[2016-09-30T17:37:38.093319] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:makeLocusGraph_chromId_005_6_0005] [wrapperSignal] wrapperStart
+[2016-09-30T17:37:38.102886] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:makeLocusGraph_chromId_005_6_0005] [wrapperSignal] taskStart
+[2016-09-30T17:37:38.725783] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:makeLocusGraph_chromId_005_6_0005] [wrapperSignal] taskExitCode 0
+[2016-09-30T17:37:38.727685] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:makeLocusGraph_chromId_005_6_0005] [wrapperSignal] taskElapsedSec 0

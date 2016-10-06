@@ -1,0 +1,4 @@
+[2016-09-30T17:37:18.163486] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:getChromDepth_sample000_estimateChromDepth_071_GL000215_1] [wrapperSignal] wrapperStart
+[2016-09-30T17:37:18.173072] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:getChromDepth_sample000_estimateChromDepth_071_GL000215_1] [wrapperSignal] taskStart
+[2016-09-30T17:37:18.184574] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:getChromDepth_sample000_estimateChromDepth_071_GL000215_1] [wrapperSignal] taskExitCode 0
+[2016-09-30T17:37:18.186282] [rgs10.research.partners.org] [20867_1] [pyflowTaskWrapper:getChromDepth_sample000_estimateChromDepth_071_GL000215_1] [wrapperSignal] taskElapsedSec 0
