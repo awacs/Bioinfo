@@ -39,10 +39,6 @@ else
     done
 fi
 # CONFIGURATION STEP
-# Single Sample
-BAMFILE=~/Rawdata/practice_bams/14415.mo.bam
-REFFA=~/Rawdata/manta_practice.fa
-OUT_DIR=~/Rawdata/practice_bams/Manta
 configManta.py \
     --bam $BAMFILE \
     --referenceFasta $REFFA \
