@@ -1,0 +1,18 @@
+#!/bin/bash
+#BSUB -J lumpy_pe
+#BSUB -o output/test-%J.out
+#BSUB -e output/test-%J.err
+
+# This is a script to sumbit a lumpy job
+# Choose a queue that you have access (eg the normal queue) and submit
+# job as follows:
+# ---
+# bsub -q normal < test.lsf
+# ---
+# Then look in the ~/lsf/output folder for the script log
+# that matches the job ID number
+
+# Please make a copy of this script for your own modifications
+
+bash ~/Software/lumpy-sv/Lumpy.sh -p ../Rawdata/PM13-02652/realign/PM13-02652.bam -o pe
+
