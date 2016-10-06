@@ -1,5 +1,5 @@
 #!/bin/bash
-#BSUB -J lumpy_pe
+#BSUB -J Manta_subsample
 #BSUB -o output/test-%J.out
 #BSUB -e output/test-%J.err
 
@@ -7,7 +7,7 @@
 # Choose a queue that you have access (eg the normal queue) and submit
 # job as follows:
 # ---
-# bsub -q normal < test.lsf
+# bsub -q normal < Manta.lsf
 # ---
 # Then look in the ~/lsf/output folder for the script log
 # that matches the job ID number
@@ -15,7 +15,7 @@
 # Please make a copy of this script for your own modifications
 
 bash ~/Software/Manta/Manta.sh \
-    -b ../Rawdata/PM13-02652/realign/PM13-02652_subsample.bam
-    -r ~/Rawdata/manta_practice.fa
+    -b ../Rawdata/PM13-02652/realign/PM13-02652_subsample.bam \
+    -r ~/Rawdata/manta_practice.fa \
     -o output
     
