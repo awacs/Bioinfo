@@ -1,7 +1,7 @@
 #!/bin/bash
-#BSUB -J Manta_subsample
-#BSUB -o output/test-%J.out
-#BSUB -e output/test-%J.err
+#BSUB -J M_Twin_s
+#BSUB -o lsfoutput/test-%J.out
+#BSUB -e lsfoutput/test-%J.err
 
 # This is a script to sumbit a lumpy job
 # Choose a queue that you have access (eg the normal queue) and submit
@@ -15,7 +15,6 @@
 # Please make a copy of this script for your own modifications
 
 bash ~/Software/Manta/Manta.sh \
-    -b ../Rawdata/PM13-02652/realign/PM13-02652_subsample.bam \
-    -r ~/Rawdata/manta_practice.fa \
-    -o output
-    
+    -b ../Rawdata/PM13-02652/realign/PM13-02652_subsample.bam\
+    -r ~/Rawdata/manta_practice.fa\
+    -o sub_sample

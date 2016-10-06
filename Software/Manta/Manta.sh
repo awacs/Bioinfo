@@ -40,4 +40,4 @@ configManta.py \
     --referenceFasta $REFFA \
     --runDir $OUT_DIR
 # Running Step
-$OUT_DIR/runWorkflow.py -m sge 
+$OUT_DIR/runWorkflow.py -m local 
