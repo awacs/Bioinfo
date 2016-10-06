@@ -62,8 +62,8 @@ then
     echo "At least one bam file needed."
     exit 1
 fi
-OUTPUT=$OUT_DIR$outputfile
-ROOT_FILE=$OUT_DIR$rootfile
+OUTPUT=$OUT_DIR/$outputfile
+ROOT_FILE=$OUT_DIR/$rootfile
 #  Running the CNVnator pipeline with one sample
 #####################
 #  Extracting read mapping
