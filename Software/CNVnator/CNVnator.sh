@@ -48,7 +48,7 @@ else
                 OUT_DIR=$OPTARG
                 mkdir -p $OUT_DIR ;;
             o ) echo "Output file = $OPTARG" 
-                outputfile=$OUT_DIR$OPTARG ;;
+                outputfile=$OPTARG ;;
             b ) echo "Bam file = $OPTARG"
                 FLAG=1
                 bamfile=$OPTARG ;;
@@ -62,26 +62,28 @@ then
     echo "At least one bam file needed."
     exit 1
 fi
+OUTPUT=$OUT_DIR$outputfile
+ROOT_FILE=$OUT_DIR$rootfile
 #  Running the CNVnator pipeline with one sample
 #####################
 #  Extracting read mapping
 ###############3
-cnvnator -root $rootfile -tree $bamfile
+cnvnator -root $ROOT_FILE -tree $bamfile
 ############33
 #  A histogram
 ################
-cnvnator -root $rootfile -his 100 -d $cnvdir
+cnvnator -root $ROOT_FILE -his 100 -d $cnvdir
 ###################33
 #  Processing
 ##############33
-cnvnator -root $rootfile -stat 100 -d $cnvdir
+cnvnator -root $ROOT_FILE -stat 100 -d $cnvdir
 ##############33
 #  RD signal partition
 #################
-cnvnator -root $rootfile -partition 100 -d $cnvdir
+cnvnator -root $ROOT_FILE -partition 100 -d $cnvdir
 #################
 #  CNV calling
 ###################
-cnvnator -root $rootfile -call 100 > $outputfile
+cnvnator -root $ROOT_FILE -call 100 > $OUTPUT
 #  Errors
 
