@@ -14,21 +14,17 @@ OUT_DIR="."
 # Argument parsing
 if [ $# -eq 0 ];
 then
+    echo "input needed"
     help_message
     exit 1
 else
-    while getopts ":he:r:o:" opt; do
+    while getopts ":hb:r:o:" opt; do
         case $opt in
             h ) help_message
                 exit 0 ;;
-            e ) echo "bams = $OPTARG "
-                set -f # disable glob
-                IFS=',' # split on space characters
+            b ) echo "bams = $OPTARG "                
                 BAMFILE=$OPTARG ;; # use the split+glob operator
-            r ) echo "REFERENCE = $OPTARG "
-                FLAG=1
-                set -f # disable glob
-                IFS=',' # split on space characters
+            r ) echo "REFERENCE = $OPTARG "               
                 REFFA=$OPTARG ;; # use the split+glob operator
             o ) echo "output directory = $OPTARG" 
                 OUT_DIR=$OPTARG 
